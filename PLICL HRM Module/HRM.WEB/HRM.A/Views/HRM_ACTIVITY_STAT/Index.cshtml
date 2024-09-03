@@ -1,0 +1,58 @@
+﻿@model IEnumerable<HRM.A.Models.HRM_ACTIVITY_STAT>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Activity Name
+            </th>
+            <th>
+                Short Name
+            </th>
+            <th>
+                Created By
+            </th>
+            <th>
+                Created Date
+            </th>
+            <th>
+                Updated By
+            </th>
+            <th>
+                Updated Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ActivityNm</td>
+                <td>@item.ShortNm</td>
+                <td>@item.IUsr</td>
+                <td>@item.IDt?.ToString("yyyy-MM-dd")</td>
+                <td>@item.UUsr</td>
+                <td>@item.UDt?.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ActivityCd" class="btn btn-warning">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ActivityCd" class="btn btn-info">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ActivityCd" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

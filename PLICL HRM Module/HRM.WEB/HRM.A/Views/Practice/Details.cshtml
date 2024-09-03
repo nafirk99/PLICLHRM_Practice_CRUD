@@ -1,0 +1,64 @@
+﻿@model HRM.A.Models.HRM_ACTIVITY_STAT
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <table class="table">
+         <tr class="col-sm-8">
+             <th class="col-sm-4">
+                 <label asp-for="ActivityNm">Activity Number</label>
+             </th>
+             <td class="col-sm-8">
+                 @Model.ActivityNm
+             </td>
+         </tr>
+         <tr class="col-sm-8">
+             <th class="col-sm-4">
+                 <label asp-for="ShortNm">Short Number</label>
+             </th>
+             <td class="col-sm-8">
+                 @Model.ShortNm
+             </td>
+         </tr>
+         <tr class="col-sm-8">
+              <th class="col-sm-4">
+                <label asp-for="IUsr"></label>
+             </th>
+             <td class="col-sm-8">
+                 @Model.IUsr
+             </td>
+         </tr>
+        <tr class="col-sm-8">
+            <th class="col-sm-4">
+                <label asp-for="IDt"></label>
+            </th>
+            <td class="col-sm-8">
+                @Model.IDt
+            </td>
+        </tr>
+        <tr class="col-sm-8">
+            <th class="col-sm-4">
+                <label asp-for="UUsr"></label>
+            </th>
+            <td class="col-sm-8">
+                @Model.UUsr
+            </td>
+        </tr>
+        <tr class="col-sm-8">
+            <th class="col-sm-4">
+                <label asp-for="UDt"></label>
+            </th>
+            <td class="col-sm-8">
+                @Model.UDt
+            </td>
+        </tr>
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ActivityCd" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-primary">Back To List</a>
+</div>

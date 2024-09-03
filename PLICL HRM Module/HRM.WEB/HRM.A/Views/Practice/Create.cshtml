@@ -1,0 +1,58 @@
+﻿@model HRM_ACTIVITY_STAT
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class="row">
+    <div class="col-sm-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ActivityCd" class="control-label"></label>
+                <input asp-for="ActivityCd" class="form-control" />
+                <span asp-validation-for="ActivityCd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ActivityNm" class="control-label"></label>
+                <input asp-for="ActivityNm" class="form-control" />
+                <span asp-validation-for="ActivityNm" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortNm" class="control-label"></label>
+                <input asp-for="ShortNm" class="form-control" />
+                <span asp-validation-for="ShortNm" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IUsr" class="control-label"></label>
+                <input asp-for="IUsr" class="form-control" />
+                <span asp-validation-for="IUsr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IDt" class="control-label"></label>
+                <input asp-for="IDt" class="form-control" />
+                <span asp-validation-for="IDt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UUsr" class="control-label"></label>
+                <input asp-for="UUsr" class="form-control" />
+                <span asp-validation-for="UUsr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UDt" class="control-label"></label>
+                <input asp-for="UDt" class="form-control" />
+                <span asp-validation-for="UDt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-dark" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
