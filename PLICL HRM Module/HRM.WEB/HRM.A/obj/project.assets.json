@@ -8305,11 +8305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRM.A.csproj",
+      "projectUniqueName": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRM.A.csproj",
       "projectName": "HRM.A",
-      "projectPath": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRM.A.csproj",
+      "projectPath": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRM.A.csproj",
       "packagesPath": "C:\\Users\\plicl\\.nuget\\packages\\",
-      "outputPath": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\obj\\",
+      "outputPath": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plicl\\AppData\\Roaming\\NuGet\\NuGet.Config",

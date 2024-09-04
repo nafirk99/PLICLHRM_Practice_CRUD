@@ -10,12 +10,15 @@ namespace HRM.A.Controllers
         {
             _context = context; 
         }
+
+        // READ
         public IActionResult Index()
         {
             var index = _context.HRM_ACTIVITY_STATs.ToList();
             return View(index);
         }
 
+        // READ By ID
         public IActionResult Details(string id)
         {
             if (id == null)
@@ -30,11 +33,14 @@ namespace HRM.A.Controllers
             return View(result);
         }
 
+        // CREATE Page
         public IActionResult Create()
         {
             return View();
         }
 
+
+        // CREATE POST
         [HttpPost]
         public IActionResult Create(HRM_ACTIVITY_STAT hRM_ACTIVITY_STAT)
         {
@@ -48,6 +54,8 @@ namespace HRM.A.Controllers
                 return View();
         }
 
+
+        // DELETE POST
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(string id)
@@ -66,6 +74,22 @@ namespace HRM.A.Controllers
             }
 
             await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+        // UPDATE
+        public IActionResult Edit(string id)
+        {
+            var result = _context.HRM_ACTIVITY_STATs.Where(u => u.ActivityCd == id).FirstOrDefault();
+            return View(result);
+        }
+
+        //UPDATE POST
+        [HttpPost]
+        public IActionResult Edit(HRM_ACTIVITY_STAT hRM_ACTIVITY_STAT)
+        {
+            _context.Update(hRM_ACTIVITY_STAT);
+            _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
     }

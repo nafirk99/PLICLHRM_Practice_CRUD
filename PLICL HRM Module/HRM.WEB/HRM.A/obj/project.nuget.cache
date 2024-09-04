@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FuuB7/xRjug=",
+  "dgSpecHash": "nnF7I04IjDM=",
   "success": true,
-  "projectFilePath": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRM.A.csproj",
+  "projectFilePath": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRM.A.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plicl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\plicl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

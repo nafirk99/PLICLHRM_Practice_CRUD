@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\",
+  "WorkspaceRootPath": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\practice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\practice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\controllers\\hrm_activity_statcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\controllers\\hrm_activity_statcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\practice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\practice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\practice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\practice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\models\\hrm_activity_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\models\\hrm_activity_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\hrmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\hrmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\hrmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\controllers\\hrm_activity_statcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\controllers\\hrm_activity_statcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\plicl hrm module\\hrm.web\\hrm.a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\models\\hrm_activity_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\models\\hrm_activity_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|e:\\zgit backup repositories\\pliclhrm_practice_crud\\plicl hrm module\\hrm.web\\hrm.a\\views\\hrm_activity_stat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50A2FDD-5990-44DC-A316-B50BA6EA02D7}|HRM.A\\HRM.A.csproj|solutionrelative:hrm.a\\views\\hrm_activity_stat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,169 +70,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Delete.cshtml",
-              "RelativeDocumentMoniker": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Delete.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Delete.cshtml",
-              "RelativeToolTip": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Delete.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "HRM.A\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "HRM.A\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T10:12:06.688Z",
+              "WhenOpened": "2024-09-04T05:58:30.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Practice\\Index.cshtml",
-              "RelativeDocumentMoniker": "HRM.A\\Views\\Practice\\Index.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Practice\\Index.cshtml",
-              "RelativeToolTip": "HRM.A\\Views\\Practice\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:10:34.368Z",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "HRM.A\\Entities\\Category.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Entities\\Category.cs",
+              "RelativeToolTip": "HRM.A\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:39:36.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HRM.A\\Entities\\Product.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Entities\\Product.cs",
+              "RelativeToolTip": "HRM.A\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:37:54.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Practice\\Details.cshtml",
-              "RelativeDocumentMoniker": "HRM.A\\Views\\Practice\\Details.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Practice\\Details.cshtml",
-              "RelativeToolTip": "HRM.A\\Views\\Practice\\Details.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T08:39:51.971Z",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HRM.A\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HRM.A\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:51:47.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Practice\\Create.cshtml",
-              "RelativeDocumentMoniker": "HRM.A\\Views\\Practice\\Create.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\Practice\\Create.cshtml",
-              "RelativeToolTip": "HRM.A\\Views\\Practice\\Create.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T09:22:24.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PracticeController.cs",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\PracticeController.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\PracticeController.cs",
               "RelativeDocumentMoniker": "HRM.A\\Controllers\\PracticeController.cs",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\PracticeController.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\PracticeController.cs",
               "RelativeToolTip": "HRM.A\\Controllers\\PracticeController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwDIAAAAlAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T09:06:52.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HRM_ACTIVITY_STATController.cs",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\HRM_ACTIVITY_STATController.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\HRM_ACTIVITY_STATController.cs",
               "RelativeDocumentMoniker": "HRM.A\\Controllers\\HRM_ACTIVITY_STATController.cs",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\HRM_ACTIVITY_STATController.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Controllers\\HRM_ACTIVITY_STATController.cs",
               "RelativeToolTip": "HRM.A\\Controllers\\HRM_ACTIVITY_STATController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwJIAAAAAAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwJIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T08:45:28.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Create.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Create.cshtml",
               "RelativeDocumentMoniker": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Create.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Create.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Create.cshtml",
               "RelativeToolTip": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Create.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T08:50:30.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
-              "RelativeDocumentMoniker": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
-              "RelativeToolTip": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T08:51:09.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T08:50:30.977Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
+              "RelativeDocumentMoniker": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
+              "RelativeToolTip": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T08:51:09.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Index.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Index.cshtml",
               "RelativeDocumentMoniker": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Index.cshtml",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Index.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Views\\HRM_ACTIVITY_STAT\\Index.cshtml",
               "RelativeToolTip": "HRM.A\\Views\\HRM_ACTIVITY_STAT\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:02:28.573Z",
+              "WhenOpened": "2024-09-02T09:02:28.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRMContext.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRMContext.cs",
+              "RelativeDocumentMoniker": "HRM.A\\HRMContext.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRMContext.cs",
+              "RelativeToolTip": "HRM.A\\HRMContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA9wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:50:19.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Program.cs",
+              "RelativeDocumentMoniker": "HRM.A\\Program.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Program.cs",
+              "RelativeToolTip": "HRM.A\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:42:25.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "HRMContext.cs",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRMContext.cs",
-              "RelativeDocumentMoniker": "HRM.A\\HRMContext.cs",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\HRMContext.cs",
-              "RelativeToolTip": "HRM.A\\HRMContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBYAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T05:50:19.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Program.cs",
-              "RelativeDocumentMoniker": "HRM.A\\Program.cs",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Program.cs",
-              "RelativeToolTip": "HRM.A\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T05:42:25.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "HRM_ACTIVITY_STAT.cs",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Models\\HRM_ACTIVITY_STAT.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Models\\HRM_ACTIVITY_STAT.cs",
               "RelativeDocumentMoniker": "HRM.A\\Models\\HRM_ACTIVITY_STAT.cs",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Models\\HRM_ACTIVITY_STAT.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\Models\\HRM_ACTIVITY_STAT.cs",
               "RelativeToolTip": "HRM.A\\Models\\HRM_ACTIVITY_STAT.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T05:41:22.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T05:41:22.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\appsettings.json",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\appsettings.json",
               "RelativeDocumentMoniker": "HRM.A\\appsettings.json",
-              "ToolTip": "E:\\ZGit Backup Repositories\\PLICL HRM Module\\HRM.WEB\\HRM.A\\appsettings.json",
+              "ToolTip": "E:\\ZGit Backup Repositories\\PLICLHRM_Practice_CRUD\\PLICL HRM Module\\HRM.WEB\\HRM.A\\appsettings.json",
               "RelativeToolTip": "HRM.A\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T05:40:56.75Z"
+              "WhenOpened": "2024-09-02T05:40:56.75Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -17,79 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HRM.A
 build_property.RootNamespace = HRM.A
-build_property.ProjectDir = E:\ZGit Backup Repositories\PLICL HRM Module\HRM.WEB\HRM.A\
+build_property.ProjectDir = E:\ZGit Backup Repositories\PLICLHRM_Practice_CRUD\PLICL HRM Module\HRM.WEB\HRM.A\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\ZGit Backup Repositories\PLICL HRM Module\HRM.WEB\HRM.A
+build_property.MSBuildProjectDirectory = E:\ZGit Backup Repositories\PLICLHRM_Practice_CRUD\PLICL HRM Module\HRM.WEB\HRM.A
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Home/Index.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Home/Privacy.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Create.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJNX0FDVElWSVRZX1NUQVRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Delete.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJNX0FDVElWSVRZX1NUQVRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Details.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJNX0FDVElWSVRZX1NUQVRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Edit.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJNX0FDVElWSVRZX1NUQVRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Index.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/HRM_ACTIVITY_STAT/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJNX0FDVElWSVRZX1NUQVRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Create.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY3RpY2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Details.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY3RpY2VcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Index.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY3RpY2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Practice/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY3RpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/Error.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/_LoginPartial.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/_ViewImports.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/_ViewStart.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/ZGit Backup Repositories/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/_Layout.cshtml]
+[E:/ZGit Backup Repositories/PLICLHRM_Practice_CRUD/PLICL HRM Module/HRM.WEB/HRM.A/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w2w58vlo0o
